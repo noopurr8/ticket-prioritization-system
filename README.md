@@ -1,6 +1,6 @@
 # Intelligent Ticket Prioritization System
 
-This project uses NLP and Machine Learning to classify IT support tickets into High, Medium, and Low priority.
+This project uses NLP and Machine Learning to automatically classify IT support tickets into High, Medium, and Low priority levels.
 
 ## Features
 - Text preprocessing pipeline
@@ -21,3 +21,8 @@ This project uses NLP and Machine Learning to classify IT support tickets into H
 ## How to Run
 1. Open the notebook
 2. Run all cells
+
+## Dataset
+- Contains real-world IT support ticket data
+- Includes Subject and Description fields
+- Used for supervised classification   
