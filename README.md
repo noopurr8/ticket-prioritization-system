@@ -25,4 +25,7 @@ This project uses NLP and Machine Learning to automatically classify IT support 
 ## Dataset
 - Contains real-world IT support ticket data
 - Includes Subject and Description fields
-- Used for supervised classification   
+- Used for supervised classification
+- ## Future Improvements
+- Use BERT or transformer-based models for better context understanding
+- Deploy as a web app for real-time ticket classification
