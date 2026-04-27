@@ -1,2 +1,23 @@
-# ticket-prioritization-system
-NLP-based system to classify IT support tickets by priority
+# Intelligent Ticket Prioritization System
+
+This project uses NLP and Machine Learning to classify IT support tickets into High, Medium, and Low priority.
+
+## Features
+- Text preprocessing pipeline
+- TF-IDF vectorization
+- Model comparison (Logistic Regression, Decision Tree, Random Forest)
+- Feature importance analysis
+
+## Results
+- Random Forest achieved F1-score of 0.88
+- Outperformed other models significantly
+
+## Tech Stack
+- Python
+- Scikit-learn
+- Pandas
+- Jupyter Notebook
+
+## How to Run
+1. Open the notebook
+2. Run all cells
